@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito', sans-serif;
+font-family: 'Roboto', sans-serif;
+background-image: url('/assets/backgorund.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+.center-div{
+    padding-top: 10% ;
+}
+
+.btn.btn-success{
+    padding: 0.8em 2.4em;
+}
+form{
+    padding: 0 2em;
+}
+#login .title span{
+     font-size: .8em;
+}
